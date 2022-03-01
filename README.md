@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eosuwu
+- 👋 Hi, I’m @eosuwu/shib
 - 👀 I’m interested in C# game modding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on sex with your mom
